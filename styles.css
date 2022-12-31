@@ -1,0 +1,22 @@
+#canvas1 {
+
+}
+
+body {
+	background: black;
+}
+
+#canvas-img1 {
+transform: translate(55%, 0%);
+border: 3px solid white;
+}
+
+#p {
+	font-size: 20px;
+	color: white;
+	border: 3px solid white;
+	background-color: black;
+}
+
+
+
